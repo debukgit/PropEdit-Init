@@ -1,4 +1,4 @@
-#  PropEditInit 1.0.0 for Blender
+#  PropEditInit 1.0.1 for Blender
 
 A small addon to reinitiate the  proportional editing radius
 
@@ -22,3 +22,7 @@ Just activate. It resets the proportional edit radius once on load.
 **Updated to 1.0.0**
 
 - Initial Release
+
+**Updated to 1.0.1**
+
+- The radius can now be set in the addon preferences and is directly applied to the tools settings
