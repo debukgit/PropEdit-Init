@@ -1,4 +1,4 @@
-#  PropEdit-Init 1.0.0 for Blender
+#  PropEditInit 1.0.0 for Blender
 
 A small addon to reinitiate the  proportional editing radius
 
@@ -12,7 +12,7 @@ Just activate. It resets the proportional edit radius once on load.
 
 # Installation
 
-- Download the latest release zip here: https://github.com/debukgit/PropEdit-Init/releases
+- Download the latest release zip here: https://github.com/debukgit/PropEditInit/releases
 - Install by choosing the downloaded zip file within blender  (Edit Menu -> Preferences -> Addons)
 - Activate "Object: Debuk PropEdit_init"
 
