@@ -13,7 +13,8 @@ Just activate. It resets the proportional edit radius once on load.
 # Installation
 
 - Download the latest release zip here: https://github.com/debukgit/PropEditInit/releases
-- Install by choosing the downloaded zip file within blender  (Edit Menu -> Preferences -> Addons)
+- Unpack the zipfiles content
+- Install by choosing the the "debuk_prop_edit_init.py" file  (Edit Menu -> Preferences -> Addons)
 - Activate "Object: Debuk PropEdit_init"
 
 # What's New
